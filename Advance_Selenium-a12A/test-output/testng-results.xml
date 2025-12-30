@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-21T21:02:09 IST" name="Default suite" finished-at="2025-12-21T21:02:20 IST" duration-ms="11605">
+    <groups>
+    </groups>
+    <test started-at="2025-12-21T21:02:09 IST" name="Default test" finished-at="2025-12-21T21:02:20 IST" duration-ms="11605">
+      <class name="advanceReport.Reportppractise">
+        <test-method is-config="true" signature="repConfig()[pri:0, instance:advanceReport.Reportppractise@74e52ef6]" started-at="2025-12-21T21:02:08 IST" name="repConfig" finished-at="2025-12-21T21:02:09 IST" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repConfig -->
+        <test-method signature="screenshot()[pri:0, instance:advanceReport.Reportppractise@74e52ef6]" started-at="2025-12-21T21:02:09 IST" name="screenshot" finished-at="2025-12-21T21:02:20 IST" duration-ms="11538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+        <test-method is-config="true" signature="repBackup()[pri:0, instance:advanceReport.Reportppractise@74e52ef6]" started-at="2025-12-21T21:02:20 IST" name="repBackup" finished-at="2025-12-21T21:02:21 IST" duration-ms="920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repBackup -->
+      </class> <!-- advanceReport.Reportppractise -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
