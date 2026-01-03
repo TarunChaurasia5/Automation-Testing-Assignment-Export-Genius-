@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-25T23:10:32 IST" name="Default suite" finished-at="2025-12-25T23:11:04 IST" duration-ms="31554">
+  <suite started-at="2026-01-03T08:58:53 IST" name="Default suite" finished-at="2026-01-03T08:59:17 IST" duration-ms="23284">
     <groups>
     </groups>
-    <test started-at="2025-12-25T23:10:32 IST" name="Default test" finished-at="2025-12-25T23:11:04 IST" duration-ms="31554">
-      <class name="sales_Order.Sales_OrderTest">
-        <test-method is-config="true" signature="openBro()[pri:0, instance:sales_Order.Sales_OrderTest@3857f613]" started-at="2025-12-25T23:10:32 IST" name="openBro" finished-at="2025-12-25T23:10:36 IST" duration-ms="3322" status="PASS">
+    <test started-at="2026-01-03T08:58:53 IST" name="Default test" finished-at="2026-01-03T08:59:17 IST" duration-ms="23284">
+      <class name="opportunities.OpportunitieswriteTest">
+        <test-method is-config="true" signature="openBro()[pri:0, instance:opportunities.OpportunitieswriteTest@3bf7ca37]" started-at="2026-01-03T08:58:53 IST" name="openBro" finished-at="2026-01-03T08:58:56 IST" duration-ms="2694" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openBro -->
-        <test-method is-config="true" signature="login()[pri:0, instance:sales_Order.Sales_OrderTest@3857f613]" started-at="2025-12-25T23:10:36 IST" name="login" finished-at="2025-12-25T23:10:38 IST" duration-ms="2844" status="PASS">
+        <test-method is-config="true" signature="login()[pri:0, instance:opportunities.OpportunitieswriteTest@3bf7ca37]" started-at="2026-01-03T08:58:56 IST" name="login" finished-at="2026-01-03T08:58:59 IST" duration-ms="2777" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="createContactTest()[pri:0, instance:sales_Order.Sales_OrderTest@3857f613]" started-at="2025-12-25T23:10:38 IST" name="createContactTest" finished-at="2025-12-25T23:10:59 IST" duration-ms="20260" status="PASS">
+        <test-method signature="createOpportunties()[pri:0, instance:opportunities.OpportunitieswriteTest@3bf7ca37]" started-at="2026-01-03T08:58:59 IST" name="createOpportunties" finished-at="2026-01-03T08:59:11 IST" duration-ms="11751" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createContactTest -->
-        <test-method is-config="true" signature="logOut()[pri:0, instance:sales_Order.Sales_OrderTest@3857f613]" started-at="2025-12-25T23:10:59 IST" name="logOut" finished-at="2025-12-25T23:11:00 IST" duration-ms="1542" status="PASS">
+        </test-method> <!-- createOpportunties -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:opportunities.OpportunitieswriteTest@3bf7ca37]" started-at="2026-01-03T08:59:11 IST" name="logOut" finished-at="2026-01-03T08:59:13 IST" duration-ms="2001" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logOut -->
-        <test-method is-config="true" signature="closeBro()[pri:0, instance:sales_Order.Sales_OrderTest@3857f613]" started-at="2025-12-25T23:11:00 IST" name="closeBro" finished-at="2025-12-25T23:11:04 IST" duration-ms="3521" status="PASS">
+        <test-method is-config="true" signature="closeBro()[pri:0, instance:opportunities.OpportunitieswriteTest@3bf7ca37]" started-at="2026-01-03T08:59:13 IST" name="closeBro" finished-at="2026-01-03T08:59:17 IST" duration-ms="4000" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBro -->
-      </class> <!-- sales_Order.Sales_OrderTest -->
+      </class> <!-- opportunities.OpportunitieswriteTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
