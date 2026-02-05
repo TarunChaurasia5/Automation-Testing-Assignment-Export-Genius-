@@ -1,0 +1,28 @@
+{
+  "devices": [
+    {
+      "name": "mobile",
+      "width": 375,
+      "height": 812
+    },
+    {
+      "name": "tablet", 
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "name": "desktop",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "test_urls": [
+    "https://staging.philippinestradedata.com",
+    "https://staging.philippinestradedata.com/login",
+    "https://staging.philippinestradedata.com/register"
+  ],
+  "performance_thresholds": {
+    "mobile_load_time": 2,
+    "desktop_load_time": 5
+  }
+}
